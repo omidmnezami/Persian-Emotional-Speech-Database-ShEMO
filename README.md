@@ -1,4 +1,5 @@
-#<a>ShEMO: a large-scale validated database for Persian speech emotion detection</a><br>
+#ShEMO: a large-scale validated database for Persian speech emotion detection
+
 [Download the Springer version of Our Paper](https://link.springer.com/article/10.1007/s10579-018-9427-x)
 
 [Download the Arxiv Version of Our Paper](https://arxiv.org/abs/1906.01155)
