@@ -6,7 +6,7 @@
 - [Link to transcripts](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/transcript.zip?raw=true) 
 
 ## Download Paper
-[Download the Springer version of Our Paper](https://link.springer.com/article/10.1007/s10579-018-9427-x)
+[Download the Springer version of Our Paper](https://link.springer.com/article/10.1007/s10579-018-9427-x)   
 [Download the Arxiv Version of Our Paper](https://arxiv.org/abs/1906.01155)
 
 ## Abstract
